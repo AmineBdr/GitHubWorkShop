@@ -8,6 +8,8 @@ font-family: 'Lilita One', cursive;
 }
 .hero{
     justify-content: center;
+    display: flex;
+    width: 100%;
 }
 #hero-img{
     width: 80%;
